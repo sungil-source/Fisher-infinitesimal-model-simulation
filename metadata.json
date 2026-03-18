@@ -1,0 +1,5 @@
+{
+  "name": "Fisher Infinitesimal Model Simulator",
+  "description": "A simulation of Fisher's infinitesimal model, demonstrating how multiple loci contribute to a continuous phenotypic distribution.",
+  "requestFramePermissions": []
+}
